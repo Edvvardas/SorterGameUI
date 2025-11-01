@@ -23,18 +23,6 @@ This is an interactive sorting game built with JavaFX. Boxes with letters (A, B,
 - Maven 3.6+
 - JavaFX 21.0.6
 
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Edvvardas/SorterGameUI.git
-   cd SorterGameUI
-   ```
-
-2. Run with Maven:
-   ```bash
-   mvn clean javafx:run
-   ```
 
 ## How to Play
 
